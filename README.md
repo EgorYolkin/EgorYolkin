@@ -10,8 +10,10 @@
 
 ~ SQL & NoSQL
 
-~ Docker
+~ Docker & k8s
 
-~ ML Base
+~ RabbitMQ & kafka & NATS
 
-~ Interested in web3 & ML & AI
+~ ML & DS Base
+
+~ Interested in web3 & ML & DS & AI
