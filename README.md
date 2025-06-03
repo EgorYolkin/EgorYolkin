@@ -16,4 +16,10 @@
 
 ~ ML & DS Base
 
-~ Interested in web3 & ML & DS & AI
+## Interested at
+
+~ Web3
+
+~ ML & DS & AI
+
+~ System design
