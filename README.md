@@ -4,22 +4,22 @@
 
 ~ Go & Python
 
-~ React & TypeScript & JS
+~ React & Redux
 
-~ Tact & Smart contracts
+~ Observability: Grafana, Prometheus, VM, Loki and other
+
+~ k8s
+
+~ Blockchain
 
 ~ SQL & NoSQL
 
-~ Docker & k8s
-
-~ RabbitMQ & kafka & NATS
-
-~ ML & DS Base
-
 ## Interested at
 
-~ Web3
+~ Web3, AI
 
-~ ML & DS & AI
+~ RAGs & GraphRAGs & LLM & AI-Agents
 
-~ System design
+~ Reverse-engineering
+
+~ Mobile development for iOS
