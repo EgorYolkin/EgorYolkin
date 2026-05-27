@@ -1,25 +1,19 @@
-## Hi there, i`m Egor Yolkin 👋
+## Hi there, I'm Egor Yolkin 👋
+
+AI Systems Engineer focused on RAG pipelines, LLM orchestration and production AI infrastructure.
+Moving deeper into ML / NLP.
 
 ## Core stack
 
-~ Go & Python
+- Python
+- RAG systems: Qdrant, embeddings, chunking, reranking, hybrid search
+- LLM orchestration: LangChain, LangGraph, AI agents
+- MLOps / Infra: Docker, Kubernetes, Grafana, Prometheus, Loki
+- SQL & NoSQL
 
-~ React & Redux
+## Interested in
 
-~ Observability: Grafana, Prometheus, VM, Loki and other
-
-~ k8s
-
-~ Blockchain
-
-~ SQL & NoSQL
-
-## Interested at
-
-~ Web3, AI
-
-~ RAGs & GraphRAGs & LLM & AI-Agents
-
-~ Reverse-engineering
-
-~ Mobile development for iOS
+- Production RAG & Agentic systems
+- LLM evaluation & inference optimization
+- ML / NLP research and applications
+- Developer tools / CLI
