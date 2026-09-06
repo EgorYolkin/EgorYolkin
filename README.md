@@ -1,6 +1,6 @@
 ## Hi there, I'm Egor Yolkin 👋
 
-AI Systems Engineer focused on RAG pipelines, LLM orchestration and production AI infrastructure.
+NLP Engineer focused on RAG pipelines, LLM orchestration and production AI infrastructure / NLP-Researches.
 Moving deeper into ML / NLP.
 
 ## Core stack
